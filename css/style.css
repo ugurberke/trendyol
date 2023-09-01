@@ -16,6 +16,7 @@
 .menu{
     font-size: 13px !important;
     font-weight: bold !important;
+    margin-right: 21px;
 }
 
 .menu:hover{
@@ -37,6 +38,12 @@
     width: 386.67px;
     height: 56.9829px;
     border: none;
+}
+
+.homepagecard{
+    margin: 10px !important;
+    border-radius: 10px !important;
+    border: none !important;
 }
 
 .story-container {
@@ -124,7 +131,7 @@
   .story-container .story-inner .story-bubbles .bubbles .bubble .thumb img {
     width: 100%;
     height: 100%;
-    border: 2px solid #fff;
+    border: 1px solid #e6e6e6;
     border-radius: 50%;
     display: block;
     object-fit: cover;
