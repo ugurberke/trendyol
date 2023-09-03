@@ -33,3 +33,5 @@ if(!isMobile){
 	  slider.scrollLeft = scrollLeft - walk;
 	});
 }
+
+
