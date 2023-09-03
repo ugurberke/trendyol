@@ -87,6 +87,19 @@
   font-size: 11px !important;
 }
 
+.heart {
+  background-color: white !important;
+  margin-left: 80%;
+  border: 1px solid #dfdfdf !important;
+  height: 30px !important;
+  width: 30px !important;
+}
+
+.truckback {
+  background-color: #535353 !important;
+  font-size: 11px !important;
+}
+
 .box-font {
   color: white;
   font-weight: bold;
@@ -128,6 +141,14 @@
   background-color: #fff6ee;
   font-size: 10px;
   width: 82px;
+}
+
+.foottitle {
+  font-size: 20px;
+}
+
+.footparagraph {
+  font-size: 12px;
 }
 
 .story-container {
